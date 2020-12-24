@@ -9,7 +9,7 @@ This is binary search tree implementation.
 
 ### Step 1 - Installing JDK
 
-You need to install [**JDK ![JDK](https://www.hashmat00.com/wp-content/uploads/2019/05/jdk1.jpg)**](https://www.oracle.com/in/java/technologies/javase-downloads.html) dowload and install it.
+You need to install [**JDK**](https://www.oracle.com/in/java/technologies/javase-downloads.html) dowload and install it.
 
 #### Check for your JDK install or not
 
